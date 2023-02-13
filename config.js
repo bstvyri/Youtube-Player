@@ -8,7 +8,7 @@ const config = {
   name: "Youtube-Player",
   //BotName
   inviteLink:
-    "https://discord.com/oauth2/authorize?client_id=1074524395361550437&permissions=8&scope=bot",
+    "https://discord.com/api/oauth2/authorize?client_id=1074519770004721664&permissions=8&scope=bot,
   //BotInvite Link
   Features: [
     {
